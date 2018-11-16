@@ -1,0 +1,28 @@
+name: "my-website"
+output_dir: docs
+# The website theme was chosen from
+# https://rmarkdown.rstudio.com/html_document_format#appearance_and_style
+output:
+  html_document:
+    toc: yes
+    toc_float: yes
+    toc_depth: 2
+    theme: cosmo
+    highlight: zenburn
+    df_print: paged
+    lib_dir: site_libs
+    self_contained: no
+# All fa icons were obtained from https://fontawesome.com/icons?d=gallery
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+ 
+  right:
+    - icon: fa-slack fa-lg
+      href: https://inceptionchat.slack.com/messages/C1QAKRNAV/
+    - icon: f6c9
+      href: https://critrole.com 
