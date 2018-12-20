@@ -18,4 +18,4 @@ Hello world!
 
 ## Subsection name
 
-Hello world again!
+globally over the 15-year period we made some observations which can be explained by previously known facts about tropical storms. For instance, the chart made with the datasets ^[NOAA. “Hurricanes and Typhoons, 1851-2014.” RSNA Pneumonia Detection Challenge | Kaggle, National Hurricane Center, 20 Jan. 2017, http://www.kaggle.com/noaa/hurricane-database.] fromvjb
